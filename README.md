@@ -12,3 +12,7 @@ Dark Stylish Theme for Wikitionary.org
 4. Click on "Write New Styles"
 
 5. Copy/Paste the content of darkwikitionary.css and click on "Save"
+
+# WARNING
+
+This is my first .css script uploaded on GitHub. I don't do a lot of .css so I know that my code can be pretty bad and/or badly optimized. If you want to improve my code, feel free to do so by creating a Pull Request. Thanks! ##### (also, there might be some bugs...)
