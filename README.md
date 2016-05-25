@@ -1,6 +1,8 @@
 # darkwikitionary
 Dark Stylish Theme for Wikitionary.org
 
+![Wikitionary Dark Theme Preview](http://i.imgur.com/BQkFui2.png)
+
 # Installation (Firefox only for now)
 
 1. Download Stylish [here](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
